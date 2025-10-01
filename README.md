@@ -34,4 +34,6 @@ Goods Available via Monero Transactions
 
 Always deposit funds and transact only through the official Black Ops link: http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion
 
-Update:  18 September 2025 Hey everyone, the broken link has been fixed.
+
+
+Update:  01 October link is functioning
