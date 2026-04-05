@@ -2,9 +2,9 @@ Black Ops Accepted Cryptocurrencies: Secure Payments on a Privacy-First Darknet 
 
 The Black Ops darknet market is built around user security and privacy, reflected most notably in its choice of accepted cryptocurrencies. In a 2025 landscape where blockchain tracing grows increasingly sophisticated, Black Ops limits payment options to ensure anonymity.
  
-[<img src="/public/explorer.webp" width="200">](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion)
+[<img src="/graphics/half.webp" width="200">](http://%62%6C%61&#99;%6B%6F%70&#102;%6A&#111;&#103;&#113;&#104;%6D&#52;%62&#101;%70%70%69&#98;&#50;&#105;&#50;&#104;%7A%79&#111;&#51;&#120;&#53;&#103;&#122;&#119;%74%73&#99;&#120;&#111;&#110;%34%32%32&#100;&#114;&#104;&#110;%67%32&#113;%67u%70&#102;%79&#100;%2E%6F%6E&#105;%6F&#110;)
 
-<a href="http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion"><img src="/public/tile.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
+<a href="http://%62%6C%61&#99;%6B%6F%70&#102;%6A&#111;&#103;&#113;&#104;%6D&#52;%62&#101;%70%70%69&#98;&#50;&#105;&#50;&#104;%7A%79&#111;&#51;&#120;&#53;&#103;&#122;&#119;%74%73&#99;&#120;&#111;&#110;%34%32%32&#100;&#114;&#104;&#110;%67%32&#113;%67u%70&#102;%79&#100;%2E%6F%6E&#105;%6F&#110;"><img src="/graphics/solid.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
  
 Why Cryptocurrency Choice Matters
 
@@ -31,9 +31,3 @@ Goods Available via Monero Transactions
 - Independent verified drug listings tested through Black Ops’ harm reduction program
 - Hacking services and stolen data bundles requiring discreet payments
 - Counterfeit and fraud-related services preferring private financial channels
-
-Always deposit funds and transact only through the official Black Ops link: http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion
-
-
-
-Update:  01 October link is functioning
